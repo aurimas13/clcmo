@@ -5,7 +5,7 @@
 [![Badge who says Listen with Spotify logo][Shield Spotify]][Spotify]
 [![Badge who says Contact Camila on LinkedIn][Shield LinkedIn]][LinkedIn]
 
-![Banner that says Camila L. Oliveira - web and mobile developer][Banner_Camila][Site]
+[![Banner that says Camila L. Oliveira - web and mobile developer][Banner_Camila]][Site]
 
 
 I'm Web and Mobile Developer who works with :heart_eyes: to make great things like [Oric][Oric], [Adocao][Adocao] and personal projects like [Urbanna][Urbanna]. Nowadays, I'm work with a great company called TCS and finished my System and Development Analysis course at Fatec Carapicuiba.
