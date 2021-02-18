@@ -275,10 +275,10 @@ const Contact = props => {
 
     React.createElement(SocialLinks, null)), /*#__PURE__*/
 
-    React.createElement("form", { id: "contact-form", action: "#" }, /*#__PURE__*/
+    React.createElement("form", { id: "contact-form", action: "https://formspree.io/f/xrgovayq", method: "POST" }, /*#__PURE__*/
     React.createElement("input", { placeholder: "Name", name: "name", type: "text", required: true }), /*#__PURE__*/
-    React.createElement("input", { placeholder: "Email", name: "email", type: "email", required: true }), /*#__PURE__*/
-    React.createElement("textarea", { placeholder: "Message", type: "text", name: "message" }), /*#__PURE__*/
+    React.createElement("input", { placeholder: "Email", name: "_replyto", type: "email", required: true }), /*#__PURE__*/
+    React.createElement("textarea", { placeholder: "Message", type: "textarea", name: "message" }), /*#__PURE__*/
     React.createElement("input", { class: "button", id: "submit", value: "Submit", type: "submit" })))));
 
 
