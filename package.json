@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "jstransformer-markdown-it": "^2.1.0",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
