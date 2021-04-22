@@ -1,0 +1,138 @@
+html{
+	scroll-behavior: smooth;
+}
+/* =============================================================================
+   Apollo13 Pages
+   ========================================================================== */
+.apollo13-plugin-page {
+	max-width:    none;
+	margin-right: 20px;
+}
+
+.apollo13-plugin-page > p,
+.apollo13-plugin-page > h3,
+.apollo13-plugin-page > ol,
+.apollo13-plugin-page [class$="-col"] {
+	max-width:    1050px;
+	margin-left:  auto;
+	margin-right: auto;
+}
+
+.apollo13-plugin-page > ol li {
+	margin-left:  2em;
+	margin-right: 2em;
+}
+
+.apollo13-plugin-page p,
+.apollo13-plugin-page h3,
+.apollo13-plugin-page h4{
+	text-align: center;
+}
+.apollo13-plugin-page h4{
+	margin: 4em 0 3em;
+}
+
+.apollo13-plugin-page .image{
+	display: block;
+}
+.apollo13-plugin-page img{
+	margin: 2em auto 4em;
+	display: block;
+	border: 6px solid #fff;
+	box-shadow: 0 0 14px rgba(0, 0, 0, 0.2);
+	max-width: 100%;
+	width: auto;
+}
+
+.apollo13-plugin-page .socials {
+	font-weight: bold;
+	font-size:   16px;
+	text-align: left;
+}
+
+.on-twitter {
+	color: #00aced;
+}
+
+.apollo13-plugin-page hr {
+	margin: 40px 0;
+}
+.a13-settings-section {
+}
+
+.a13-settings-section:not(.active-section) {
+	display: none;
+}
+
+
+
+/* =============================================================================
+   Import section
+   ========================================================================== */
+.import-section {
+	padding-top: 2em;
+	padding-bottom: 1em;
+	text-align: center;
+}
+.import-section:focus-within {
+	-webkit-animation: focus-animation 2000ms linear;
+			animation: focus-animation 2000ms linear;
+}
+@-webkit-keyframes focus-animation {
+	0% { background: lightyellow; }
+	100% { background: transparent; }
+}
+@keyframes focus-animation {
+	0% { background: lightyellow; }
+	100% { background: transparent; }
+}
+.status {
+	max-width: 400px;
+	margin:    30px auto 0;
+}
+
+.import_progress_bar {
+	background:    #ddd none repeat scroll 0 0;
+	height:        8px;
+	margin:        15px auto 0;
+	width:         100%;
+	border-radius: 4px;
+}
+
+.import_progress {
+	background:    #3da6fb none repeat scroll 0 0;
+	height:        100%;
+	width:         0;
+	border-radius: 4px;
+}
+
+.import_progress.running {
+	background:        #3da6fb none repeat scroll 0 0;
+	height:            100%;
+	width:             0;
+	-webkit-animation: changeShadow 0.5s linear infinite alternate;
+	animation:         changeShadow 0.5s linear infinite alternate;
+}
+
+@-webkit-keyframes changeShadow {
+	from {
+		box-shadow: 0 0 1px #1187b1;
+	}
+
+	to {
+		box-shadow: 0 0 20px #13c7ff;
+	}
+}
+
+@keyframes changeShadow {
+	from {
+		box-shadow: 0 0 1px #1187b1;
+	}
+
+	to {
+		box-shadow: 0 0 20px #13c7ff;
+	}
+}
+
+
+
