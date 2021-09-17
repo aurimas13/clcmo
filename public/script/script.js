@@ -213,6 +213,7 @@ const Project = props => {
   Projects Component
  ***********************/
 
+ 
 const Projects = props => {
   return /*#__PURE__*/(
     React.createElement("section", { id: "projects" }, /*#__PURE__*/
@@ -224,27 +225,39 @@ const Projects = props => {
     React.createElement("u", null, "most"), " of the projects I've been working on lately.")), /*#__PURE__*/
 
 
-
-    React.createElement("div", { class: "projects-wrapper" }, /*#__PURE__*/
+    React.createElement("div", { className: "projects-wrapper" }, /*#__PURE__*/
     React.createElement(Project, {
-      title: "Studio Urbanna",
-      img:
-      "https://instagram.fcgh14-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/102409645_305601070446491_104901290925887676_n.jpg?_nc_ht=instagram.fcgh14-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=87yiC8G-tKQAX9TgHQO&_nc_tp=15&oh=95118d14c9375a32f657cd4659968aff&oe=5FC47B8A",
+      title: "Camila L. Oliveira's Blog",
+      img: "images/captura_camila.jpeg",
+
+      tech: "css",
+      link: "https://camilaloliveira.com.br",
+      repo: "#" }, /*#__PURE__*/
+
+    React.createElement("small", null, "Built using Wordpress and Elementor."), /*#__PURE__*/
+    React.createElement("p", null, "This is the official blog's site by Camila L. Oliveira.")),
+
+
+    React.createElement(Project, {
+       title: "Studio Urbanna",
+      img: "images/captura_studio.jpeg",
 
       tech: "js css jekyll",
       link: "https://studiourbanna.github.io/",
       repo: "https://github.com/studiourbanna/studiourbanna.github.io" }, /*#__PURE__*/
 
     React.createElement("small", null, "Built using Jekyll, CSS and JS."), /*#__PURE__*/
-    React.createElement("p", null, "This is the portfolio web site of the projects from Urbanna team."))))));
+    React.createElement("p", null, "This is the portfolio web site of the projects from Urbanna team.")), /*#__PURE__*/
 
 
 
 
 
-
+    ))));
 
 };
+
+
 
 /***********************
   Contact Component
