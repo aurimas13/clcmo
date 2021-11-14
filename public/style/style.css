@@ -1133,3 +1133,23 @@ footer .wrapper {
     padding-bottom: 0.8rem;
   }
 }
+
+footer a{
+  font-size: 1.3em;
+}
+
+.is-urb {
+  font-family: "kollektifregular";
+}
+
+.is-urb .is-bold {
+  font-family: "kollektifbold";
+}
+
+.is-urb .is-italic {
+  font-family: "kollektifitalic";
+}
+
+.is-urb .is-bold .is-italic {
+  font-family: "kollektifbold_italic";
+}

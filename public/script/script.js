@@ -307,9 +307,21 @@ const Footer = props => {
   return /*#__PURE__*/(
     React.createElement("footer", null, /*#__PURE__*/
     React.createElement("div", { class: "wrapper" }, /*#__PURE__*/
-    React.createElement("h3", null, "Thanks for visitiing. All credits to Yago Est\xE9vez."), /*#__PURE__*/
+    React.createElement("h3", null, "Thanks for visiting."), /*#__PURE__*/
     React.createElement("p", null, "\xA9 ",
-    new Date().getFullYear(), " ", /*#__PURE__*/React.createElement("strong", null, "stdurb"), "."), /*#__PURE__*/
+    new Date().getFullYear(), " ", /*#__PURE__*/
+    React.createElement("a", {
+      class: "is-urb is-bold",
+      href: "https://studiourbanna.github.io",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Studio Urbanna" }, "stdurb"), ". Credits:", 
+    React.createElement("a", {
+      class: "is-urb is-bold",
+      href: "https://studiourbanna.github.io",
+      target: "_blank",
+      rel: "noopener noreferrer",
+      title: "Yago Est\xE9vez" }, "Yago Est\xE9vez"),"."),  /*#__PURE__*/
 
     React.createElement(SocialLinks, null))));
 
