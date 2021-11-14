@@ -276,9 +276,9 @@ const Contact = props => {
     React.createElement("p", { class: "separator" }), /*#__PURE__*/
     React.createElement("p", { class: "subtitle" }, "Fill the form above or send an email to ",
     "", /*#__PURE__*/
-    React.createElement("span", { class: "mail" }, "clcmo", /*#__PURE__*/
+    React.createElement("span", { class: "mail" }, "camila.leite.oliveira", /*#__PURE__*/
 
-    React.createElement("i", { class: "fas fa-at at" }), "mail", /*#__PURE__*/
+    React.createElement("i", { class: "fas fa-at at" }), "gmail", /*#__PURE__*/
 
     React.createElement("i", { class: "fas fa-circle dot" }), "com"), ":")), /*#__PURE__*/
 
