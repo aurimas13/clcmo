@@ -28,6 +28,9 @@ const Menu = props => {
     React.createElement("li", null, /*#__PURE__*/
     React.createElement("a", { href: "#contact", onClick: props.toggleMenu }, "CONTACT"))), /*#__PURE__*/
 
+    React.createElement("li", null, /*#__PURE__*/
+    React.createElement("a", { href: "https://camilaloliveira.com.br", onClick: props.toggleMenu }, "BLOG"))), /*#__PURE__*/
+
 
 
 
