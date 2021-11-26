@@ -1,24 +1,30 @@
 # Hello, I'm Camila 👩🏻‍🦰
 
-[![Badge who says the site is on][Shield]][Site]
-[![Badge who says Follow Camila Like and the number of followers on Twitter][Shield Twitter]][Twitter]
+[![Badge who says the site is online][Shield]][Site]
+[![Badge who says Follow Camila On Twitter][Shield Twitter]][Twitter]
 [![Badge who says Listen with Spotify logo][Shield Spotify]][Spotify]
 [![Badge who says Contact Camila on LinkedIn][Shield LinkedIn]][LinkedIn]
 
 [![Banner that says Camila L. Oliveira - web and mobile developer][Banner_Camila]][Site]
 
 
-I'm Web and Mobile Developer who works with :heart_eyes: to make great things like [Oric][Oric], [Adocao][Adocao] and personal projects like [Urbanna][Urbanna]. Nowadays, I'm work with a great company called TCS and finished my System and Development Analysis course at Fatec Carapicuiba.
+I'm a web and mobile developer based in the great metropolitan area from São Paulo, Brazil.
 
-[Shield]: https://img.shields.io/twitter/url?color=pink&label=The%20site%20is%20On&logo=codepen&style=for-the-badge&url=https%3A%2F%2Fclcmo.github.io%2Fclcmo
-[Shield Twitter]: https://img.shields.io/twitter/url?color=blue&label=Follow%20Camila%20Like&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Foriginal_referer%3Dhttps%253A%252F%252Fgithub.com%252Fclcmo%26screen_name%3Dmillaloliveira
-[Shield LinkedIn]: https://img.shields.io/twitter/url?color=blue&label=Contact%20Camila&logo=linkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fclcmdeoliveira%2F
-[Shield Spotify]: https://img.shields.io/twitter/url?color=green&label=Listen&logo=spotify&style=for-the-badge&url=https%3A%2F%2Fopen.spotify.com%2Fshow%2F4qDtIQJELZbY3HxHkQ797l
-[Banner_Camila]: https://raw.githubusercontent.com/clcmo/clcmo/main/docs/images/banner_Camila.jpg
+I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, poems, and a lot more.
+
+See my [page][Site] to meet some projects.
+
+[Shield]: https://img.shields.io/badge/The%20Site-Is%20Online-pink?style=for-the-badge&logo=c&logoColor=pink
+
+[Shield Twitter]: https://img.shields.io/badge/Follow%20Camila-On%20Twitter-blue?style=for-the-badge&logo=twitter&logoColor=blue
+
+[Shield LinkedIn]: https://img.shields.io/badge/Contact%20Camila-On%20LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white
+
+[Shield Spotify]: https://img.shields.io/badge/Listen%20Cafe-On%20Spotify-green?style=for-the-badge&logo=spotify&logoColor=green
+
+[Banner_Camila]: https://raw.githubusercontent.com/clcmo/clcmo/main/docs/images/banner_Camila.png
+
 [Site]: https://dev.camilaloliveira.com.br/
 [Twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fclcmo&screen_name=millaloliveira
 [LinkedIn]: https://www.linkedin.com/in/clcmdeoliveira/
-[Oric]: https://github.com/ORIC20191/ORIC-PROJECT
-[Adocao]: https://github.com/PauloRTavares/Adocao-App
-[Urbanna]: https://github.com/studiourbanna
 [Spotify]: https://open.spotify.com/show/4qDtIQJELZbY3HxHkQ797l?si=bhZPh247RlCryBsqWfBpow
