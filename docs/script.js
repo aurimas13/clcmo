@@ -8,4 +8,4 @@
     "color": "black",
     "url": "https://dev.camilaloliveira.com.br",
     "alt": "Badge who says the site is online"
-};
+}
