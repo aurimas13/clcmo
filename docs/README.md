@@ -1,11 +1,9 @@
 # Hello, I'm Camila 👩🏻‍🦰
 
 [![Badge who says The Site Is Online With a C Logo in Pink][Shield]][Site]
-
 [![Badge who says Follow On Twitter][Shield Twitter]][Twitter]
 
 [![Badge who says Listen Her Podcast][Shield Spotify]][Spotify]
-
 [![Badge who says Contact On LinkedIn][Shield LinkedIn]][LinkedIn]
 
 [![Banner that says Camila L. Oliveira - web and mobile developer][Banner_Camila]][Site]
