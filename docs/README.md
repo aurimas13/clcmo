@@ -8,11 +8,13 @@
 
 [![Banner that says Camila L. Oliveira - web and mobile developer][Banner_Camila]][Site]
 
+## About
+
 I'm a web and mobile developer based in the great metropolitan area from São Paulo, Brazil.
 
 I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, poems, and a lot more.
 
-See my [page][Site] to meet some projects.
+### See my [page][Site] to meet some projects.
 
 [Shield]: https://img.shields.io/badge/The%20Site-Is%20Online-pink?style=for-the-badge&logo=c&logoColor=pink&logoWidth=200
 
