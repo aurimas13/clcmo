@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://raw.githubusercontent.com/clcmo/clcmo/main/docs/images/-2147483648_-211006.webp">
+<img align="left" width="250px" style="margin-top:-20px" src="https://raw.githubusercontent.com/clcmo/clcmo/main/docs/images/-2147483648_-211006.webp">
 
   </br>
   </br>
