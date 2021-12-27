@@ -51,6 +51,10 @@
 
   </br>
   </br>
+  
+  #### See my [page][Site] to meet some projects.
+  
+  
 <p align="center">
 <a href="https://github.com/clcmo">
   <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -61,6 +65,5 @@
   </br>
   </br>
 
-  #### See my [page][Site] to meet some projects.
 
   [Site]: https://dev.camilaloliveira.com.br/
