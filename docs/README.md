@@ -22,13 +22,9 @@
 
   ## About
 
-  I'm a web and mobile developer based in the great metropolitan area from São Paulo, Brazil.
+  I'm a full developper analyst based in the great metropolitan area from São Paulo, Brazil.
 
   I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. I also love photography, poems, and a lot more.
-
-  ----
-  See my [page][Site] to meet some projects.
-  ----
 
   ### 🖥️ Technologies and Skills: 
   <img width="300px" align="right" src="https://raw.githubusercontent.com/clcmo/clcmo/main/docs/images/-2147483648_-211005.webp">
@@ -53,11 +49,15 @@
    <p align="left">🎮  I like Green Tea, I love games and I love arts.</p>
   </div>
 
+  </br>
+  </br>
 <p align="center">
 <a href="https://github.com/clcmo">
   <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clcmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clcmo&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+  #### See my [page][Site] to meet some projects.
 
   [Site]: https://dev.camilaloliveira.com.br/
