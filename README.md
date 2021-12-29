@@ -31,12 +31,11 @@ Hello, I'm Camila L. Oliveira 👩🏻‍🦰
 
 </br></br>
 
-<div display="inline-block">
-  🤿 I`m Developper Analyst from Fatec;
-  📚 Now, I\`m learning about Google Analytics and AWS;
-  📷 I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](studiourbanna.github.io)!
-  🎮 I like Green Tea, I love games and I love arts.
-</div>
+  * 🤿 I\`m Developper Analyst from Fatec;
+  * 📚 Now, I\`m learning about Google Analytics and AWS;
+  * 📷 I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](studiourbanna.github.io)!
+  * 🎮 I like Green Tea, I love games and I love arts.
+
 
 #### See my [page][Site] to meet some projects
 
