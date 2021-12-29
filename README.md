@@ -1,21 +1,13 @@
 <img align="left" width="250px" style="margin-top:-20px" src="https://raw.githubusercontent.com/clcmo/clcmo/main/docs/images/-2147483648_-211006.webp" />
 </br></br>
 
-<div display="inline-block">
-  <h1 align="left">Hello, I'm Camila L. Oliveira 👩🏻‍🦰</h1>
-  <a href="https://dev.camilaloliveira.com.br">
-    <img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/512/1409/1409940.png" alt="site" style="vertical-align:top;" />
-  </a>
-  <a href="https://www.instagram.com/millaloliveira/">
-    <img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="instagram" style="vertical-align:top;" />
-    </a>
-    <a href="https://twitter.com/millaloliveira">
-      <img align="left" width="80px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="twitter" style="vertical-align:top;" />
-    </a>
-    <a href=" https://www.linkedin.com/in/clcmdeoliveira/">
-      <img width="80px" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" alt="linkedin" style="vertical-align:top;" />
-    </a>
-</div>
+Hello, I'm Camila L. Oliveira 👩🏻‍🦰
+=====================================
+
+ [![site](https://github.com/clcmo/clcmo/blob/main/docs/images/periscopio.png?raw=true)](https://dev.camilaloliveira.com.br) 
+ [![instagram](https://github.com/clcmo/clcmo/blob/main/docs/images/instagram.png?raw=true)](https://www.instagram.com/millaloliveira/) 
+ [![twitter](https://github.com/clcmo/clcmo/blob/main/docs/images/twitter.png?raw=true)](https://twitter.com/millaloliveira) 
+ [![linkedin](https://github.com/clcmo/clcmo/blob/main/docs/images/linkedin.png?raw=true)](https://www.linkedin.com/in/clcmo/)
 
 ## About
 
@@ -40,10 +32,10 @@
 </br></br>
 
 <div display="inline-block">
-  <p align="left">🤿  I`m Developper Analyst from Fatec;</p>
-  <p align="left">📚  Now, I`m learning about Google Analytics and AWS;</p>
-  <p align="left">📷  I shared some lessons about creating your website or meeting the Android's lifecycle on <a href="studiourbanna.github.io">studio urbanna</a>!</p>
-  <p align="left">🎮  I like Green Tea, I love games and I love arts.</p>
+  🤿 I`m Developper Analyst from Fatec;
+  📚 Now, I\`m learning about Google Analytics and AWS;
+  📷 I shared some lessons about creating your website or meeting the Android's lifecycle on [studio urbanna](studiourbanna.github.io)!
+  🎮 I like Green Tea, I love games and I love arts.
 </div>
 
 #### See my [page][Site] to meet some projects
