@@ -9,6 +9,9 @@ Hello, I'm Camila L. Oliveira 👩🏻‍🦰
  [![twitter](https://github.com/clcmo/clcmo/blob/main/docs/images/twitter.png?raw=true)](https://twitter.com/millaloliveira) 
  [![linkedin](https://github.com/clcmo/clcmo/blob/main/docs/images/linkedin.png?raw=true)](https://www.linkedin.com/in/clcmo/)
 
+
+-------
+
 ## About
 
   I'm a full developper analyst based in the great metropolitan area from São Paulo, Brazil.
