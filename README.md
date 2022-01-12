@@ -4,10 +4,9 @@
 Hello, I'm Camila L. Oliveira 👩🏻‍🦰
 =====================================
 
- [![site](https://github.com/clcmo/clcmo/blob/main/docs/images/periscopio.png?raw=true)](https://dev.camilaloliveira.com.br) 
- [![instagram](https://github.com/clcmo/clcmo/blob/main/docs/images/instagram.png?raw=true)](https://www.instagram.com/millaloliveira/) 
- [![twitter](https://github.com/clcmo/clcmo/blob/main/docs/images/twitter.png?raw=true)](https://twitter.com/millaloliveira) 
- [![linkedin](https://github.com/clcmo/clcmo/blob/main/docs/images/linkedin.png?raw=true)](https://www.linkedin.com/in/clcmo/)
+[![Site](https://img.shields.io/badge/camilaloliveira.com.br-blueviolet?style=for-the-badge&logo=C&logoColor=white)](https://camilaloliveira.com.br)
+[![redes](https://img.shields.io/badge/redes-ff69b4?style=for-the-badge&logo=webflow&logoColor=white)](https://www.flowcode.com/page/millaloliveira)
+[![linkedin](https://img.shields.io/badge/clcmo-informational?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clcmo/)
 
 
 -------
